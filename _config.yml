@@ -6,9 +6,9 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Junjie LI"
-description              : "A Ph.D candidate at The Hong Kong Polytechnic University"
-repository               : "mrjunjieli/mrjunjieli.github.io"
+title                    : "Xueer Fu"
+description              : "A Ph.D candidate at ChangAn University"
+repository               : "XueerFu/XueerFu.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -21,10 +21,10 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Junjie LI"
+  name             : "Xueer Fu"
   avatar           : "images/Junjie.jpg"
   bio              : "[Curriculum Vitae]"
-  location         : "Hong Kong SAR, China"
+  location         : "Xi'an ShaanXi, China"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=CInvjq8AAAAJ"
