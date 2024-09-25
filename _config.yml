@@ -22,13 +22,13 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Xueer Fu"
-  avatar           : "images/Junjie.jpg"
+  avatar           : "images/fuxuer_wechat_icon.jpg"
   bio              : # "[Curriculum Vitae]"
   location         : "Xi'an ShaanXi, China"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=CInvjq8AAAAJ"
-  email            : "mrjunjieli@gmail.com"
+  googlescholar    : # "https://scholar.google.com/citations?user=CInvjq8AAAAJ"
+  email            : "2022134023@chd.edu.cn"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
