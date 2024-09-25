@@ -23,9 +23,9 @@ My research interests lie in transportation planning and management, with a part
 
 
 # 📖 Educations
-- 2024.09 - present, Ph.D. candidate in the School of Transportation Engineering, Chang'an University.
-- 2022.09 - 2024.6, M.E. in the School of Transportation Engineering, Chang'an University.
-- 2015.09 - 2019.06, B.E. in the School of Civil Engineering at Xi'an University of Architecture and Technology.
+- 2024.9 - present, Ph.D. candidate in the School of Transportation Engineering, Chang'an University.
+- 2022.9 - 2024.6, M.E. in the School of Transportation Engineering, Chang'an University.
+- 2015.9 - 2019.6, B.E. in the School of Civil Engineering at Xi'an University of Architecture and Technology.
 
 
 # 📝 Publications
