@@ -43,7 +43,7 @@ I am currently engaged in several research projects that explore the integration
 - AutoCAD Engineer Certification
 
 
-# 🇯🇵 Academic Activities 
+# 📁 Academic Activities 
 - I have actively participated in the "Mid-term Benefit Evaluation of Jincheng City Public Transportation Planning" and the "Jincheng City Public Transportation Route Layout and Network Optimization Project." My contributions involved conducting a two-week field traffic survey, followed by data analysis using SPSS and visual representation with AI software. Additionally, I authored key sections of the final report.
 
 
