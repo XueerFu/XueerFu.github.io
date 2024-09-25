@@ -28,7 +28,7 @@ author:
   employer         :
   pubmed           : 
   googlescholar    : # "https://scholar.google.com/citations?user=CInvjq8AAAAJ"
-  email            : # "2022134023@chd.edu.cn"
+  email            : "2022134023@chd.edu.cn"
   researchgate     : # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -56,7 +56,7 @@ author:
   weibo            :
   xing             :
   youtube          :
-  wikipedia        : # ../images/erweima.jpg
+  wikipedia        : ../images/erweima.jpg
 
 
 # Reading Files
