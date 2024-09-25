@@ -43,8 +43,7 @@ I am currently engaged in several research projects that explore the integration
 - Third-Class Graduate Academic Scholarship, Chang'an University, 2023
 
 # 😄 Academic Activities 
-- Mid-term Benefit Evaluation of Jincheng City Public Transportation Planning, Jincheng City Public Transportation Route Layout and Network Optimization Project.
-- I have been actively involved in the "Mid-term Benefit Evaluation of Jincheng City Public Transportation Planning" and the "Jincheng City Public Transportation Route Layout and Network Optimization Project." My contributions include conducting a two-week field traffic survey, followed by data analysis using SPSS and diagramming with AI software. Additionally, I have authored significant sections of the final report.
+- I have actively participated in the "Mid-term Benefit Evaluation of Jincheng City Public Transportation Planning" and the "Jincheng City Public Transportation Route Layout and Network Optimization Project." My contributions involved conducting a two-week field traffic survey, followed by data analysis using SPSS and visual representation with AI software. Additionally, I authored key sections of the final report.
 
 
 
