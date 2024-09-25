@@ -34,13 +34,14 @@ I am currently engaged in several research projects that explore the integration
 - Fu, X., & Wang, J. (In Preparation). "Machine Learning Applications in Traffic Management."
 
 # 🎖 Honors and Awards
-- National Encouragement Scholarship, Academic Year 2016-2017
-- "Strive for Excellence" Outstanding Student Second-Class Scholarship, Academic Year 2016-2017
-- National Encouragement Scholarship, Academic Year 2017-2018
-- "Strive for Excellence" Outstanding Student Second-Class Scholarship, Academic Year 2017-2018
-- AutoCAD Engineer Certification
-- Second-Class Graduate Academic Scholarship, Chang'an University, 2022
 - Third-Class Graduate Academic Scholarship, Chang'an University, 2023
+- Second-Class Graduate Academic Scholarship, Chang'an University, 2022
+- "Strive for Excellence" Outstanding Student Second-Class Scholarship, Academic Year 2017-2018
+- National Encouragement Scholarship, Academic Year 2017-2018
+- "Strive for Excellence" Outstanding Student Second-Class Scholarship, Academic Year 2016-2017
+- National Encouragement Scholarship, Academic Year 2016-2017
+- AutoCAD Engineer Certification
+
 
 # 😄 Academic Activities 
 - I have actively participated in the "Mid-term Benefit Evaluation of Jincheng City Public Transportation Planning" and the "Jincheng City Public Transportation Route Layout and Network Optimization Project." My contributions involved conducting a two-week field traffic survey, followed by data analysis using SPSS and visual representation with AI software. Additionally, I authored key sections of the final report.
